@@ -1,0 +1,165 @@
+
+h1{
+
+    font-family: Roboto;
+    color: #605959;    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+
+}
+
+p{
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+font-family: Gilroy;
+font-style: normal;
+color: #766D6D;
+
+}
+
+.dist_title {
+
+    margin-top:163px;
+    text-align: center;
+}
+
+.line{
+    background: #676E70;
+    height: 2px;
+    width: 322px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.intro_desc{
+    background: rgba(196, 237, 243, 0.3);;
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.intro_desk_photo{
+
+    margin: auto
+}
+
+.intro_desc_text{
+    background: rgba(69, 69, 69, 0.2);
+    margin-top: 50px;
+}
+
+.intro_desc_text_title_div{
+    padding-top:100px
+}
+
+.intro_desc_text_title{
+    text-align: center;
+}
+
+.intro_desk_text_subtitle{
+    margin-top: 101px;
+    margin-left:131px;
+    width: 798px;
+    height: 447px;
+
+    line-height: 65px;
+    padding-bottom: 128px;
+
+}
+
+.line{
+
+    background: #676E70;
+}
+
+
+
+
+
+
+.daycard_desc{
+    margin-top: -90px;
+    padding:100px;
+    background: rgba(69, 69, 69, 0.2);
+    padding-bottom: 120px;
+
+}
+
+
+.daycard_desc_title{
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    text-align: center;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+    
+    width: 932px;
+}
+
+.daycard_desc_subtitle{
+    
+    text-align: center;
+    margin-top:50px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.07em;
+    color: #000000;
+    width: 932px;
+}
+
+
+
+.daycard_photo{
+    
+    margin-top: -100px;
+    height: 100vh;
+    background: url(/img/PNG/Malaysia_section_photo1.png) no-repeat center;
+}
+
+
+
+.daycard_photo:nth-of-type(2){
+    
+    background: url(/img/PNG/Malaysia_section_photo2.png) no-repeat center;
+
+}
+
+
+.daycard_photo:nth-of-type(3){
+    
+    background: url(/img/PNG/Malaysia_section_photo3.png) no-repeat center;
+
+}
+
+
+
+.daycard_photo:nth-of-type(4){
+    
+    background: url(/img/PNG/Malaysia_section_photo4.png) no-repeat center;
+
+}
+
+
+.daycard_photo:nth-of-type(5){
+    
+    background: url(/img/PNG/Malaysia_section_photo5.png) no-repeat center;
+
+}

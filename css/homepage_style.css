@@ -1,0 +1,210 @@
+
+.intro{
+    margin-top: 173px;
+    height: 100vh;
+    background:url("/img/PNG/home page intro image.png")  center;
+    background-size: contain;
+
+}
+
+.intro_logo_div{
+
+    display: flex;
+    flex-direction: column;
+    
+    max-width: 250px;
+    margin: 0 auto;
+    
+}
+
+
+.intro_logo{
+    margin-top: 160px;
+}
+
+.intro_button_div{
+    margin-top: 30px;
+    margin-left:-130px
+}
+
+
+.intro_button{
+    background: rgba(255, 255, 255, 0.97);
+    box-shadow: 0px 8px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+    width: 539px;
+    height: 118px;
+
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #505050;
+}
+
+
+.intro_button:hover{
+
+    background: #43E4FF;
+    color: #FFFFFF;
+}
+
+.intro_button:active{
+    background: #A5F2FF;
+}
+
+
+/*Must see img*/
+
+
+.must_see{
+    margin-top: 173px;
+    height: 100vh;
+    background:url("/img/PNG/home_page_must_see.png")  center;
+    background-size: cover;
+
+}
+
+
+/*Top3*/
+
+.Direction_card{
+    margin-top: 107px;
+    display: flex;
+    flex-wrap: wrap;
+}   
+
+
+
+.Langkawi_desk{
+    width: 552px;
+    height: 453px;
+    align-items: center;
+    text-align: right;
+    margin-top: 167px;
+}
+
+.dots{
+    margin-top: 119px;
+}
+
+
+.Black_Beach_photo{
+    margin-left: 95px;
+}
+
+
+
+
+
+.Black_Beach_card{
+    background: #FFECE8;
+
+}
+
+.Black_Beach_desck{
+
+    width: 561px;
+    height: 300px;
+    align-items: center;
+    margin-top: 197px;
+    padding: 56px;
+
+}
+
+.Cairo_desk{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    width: 540px;
+    height: 268px;
+    margin-top: 160px;
+
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+
+}
+
+
+
+
+.how_works{
+    margin-top:187px;
+}
+
+
+
+.title{
+    width: 928px;
+
+    margin-left:auto;
+    margin-right: auto;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    color: #A5A5A5;
+    align-items: center;
+    text-align: center;
+}
+
+
+.statcard{
+    margin-top: 90px;
+    width: 230px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.statcard p{
+    
+font-family: Gilroy;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+text-align: center;
+margin-top: 45px;
+
+}
+
+.how_works_desc{
+    margin-top: 80px;
+    
+    text-align: center;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+
+}
+
+
+.coming_soon{
+
+    margin-top:190px;
+
+}
+
+
+.coming_soon_card{
+    margin-top:90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.coming_soon_card_text{
+
+    margin-left: 102px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 260px;
+
+}

@@ -1,0 +1,101 @@
+.dist_title{
+    margin-top: 173px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+.dist_card{
+    height: 100vh;
+    background:url("/img/PNG/dist_america.png") no-repeat center;
+    background-size: contain;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+
+
+
+.dist_card_title{
+    
+    margin-right: auto;
+    margin-left: auto;
+    padding:auto;
+    margin-top:275px;
+    text-align: center;
+    width: 500px;
+
+
+}
+
+
+
+.dist_card_title h1{
+    
+    color:white;
+    font-size: 50px;
+    line-height: 70px;
+    padding: 5px;
+    text-align: center;
+    width: 500px;
+    color:white;
+    background: rgba(0, 0, 0, 0.4);
+
+
+}
+
+.dist_card_title button{
+    margin-top:25px;
+    background: rgba(255, 255, 255, 0.97);
+    box-shadow: 0px 8px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+    width: 491.07px;
+    height: 93px;
+    color: #505050;
+
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+.dist_card_title button:hover{
+
+    background: #43E4FF;
+    color: #FFFFFF;
+}
+
+.dist_card_title button:active{
+    background: #A5F2FF;
+}
+
+
+
+
+
+
+.dist_card:nth-child(2){
+    background:url("/img/PNG/dist_malaysia.png") no-repeat center;
+}
+
+
+.dist_card:nth-child(3){
+    background:url("/img/PNG/dist_switherland.png") no-repeat center;
+}
+
+
+.dist_card:nth-child(4){
+    background:url("/img/PNG/dist_kenya.png") no-repeat center;
+}
+
+
+.dist_card:nth-child(5){
+    background:url("/img/PNG/dist_central_asia.png") no-repeat center;
+}

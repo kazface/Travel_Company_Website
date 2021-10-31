@@ -1,0 +1,123 @@
+.intro{
+    margin-top: 173px;
+    height: 100vh;
+    background:url("/img/PNG/goals_intro.png") no-repeat center;
+    background-size: cover;
+}
+
+
+
+.goals{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+
+.goal_card{
+    background: #FFD0D9;
+    margin-right: 90px;
+
+
+}
+
+.goal_card:nth-child(2){
+    
+    background: #F9D99E;
+
+}
+
+.goal_card:last-child{
+    margin-right: 0px;
+    
+    background: #D5E7EA;
+}
+
+
+
+
+.goaltitle{
+margin-top: 57px;
+    
+color: #FFFFFF;
+
+text-align: center;
+}
+
+.goalsubtitle{
+
+
+    padding:20px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 28px;
+    width: 285px;
+    height: 137px;
+
+    color: #635D5D;
+
+}
+
+
+.photo_goals{
+    padding-bottom: 100px;
+    margin-top: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgba(180, 178, 178, 0.2);;
+}
+
+
+.photo_goal_card{
+    margin-right: 50px;
+}
+
+.photo_goal_card:last-child{
+    margin-right: 0;
+}
+
+.photo_text{
+
+    margin-top:35px;
+    font-size: 24px;
+    width: 347px;
+    height: 112px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+
+.line{
+
+    margin-top:70px;
+    background: #FFD0D9;
+    width: auto;
+    height: 2px;
+
+}
+
+ 
+
+.footer_text1{
+
+    margin-top:100px;
+    background: #D3DFA9;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+
+}
+
+
+
+
+
+.footer_text_title{
+       
+    align-items: center;
+    text-align: center;
+    font-size: 24px;
+    padding:100px;
+
+}
